@@ -21,7 +21,7 @@ This project provides a demonstration of seamlessly integrating an external REST
 
 1. Clone this repository to your local machine.
 2. Follow the instructions provided in the README files within each directory for setting up and running the backend and frontend applications.
-3. Join the virtual event session led by Me @[Dosu] to learn more about the development process and integration steps.
+3. Join the virtual event session led by Me @ [Dosu] to learn more about the development process and integration steps.
 
 ## Contributors
 
